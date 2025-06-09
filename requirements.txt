@@ -1,0 +1,21 @@
+python-dotenv
+langchain-chroma
+chromadb
+langchain-groq
+langchain-community
+langchain-core
+pypdf
+langchain-redis
+chromadb
+pydantic[email]
+google-ai-generativelanguage
+langchain-google-genai # Compatible with 0.6.x
+protobuf
+google-generativeai
+#redisv1
+redisearch
+fastapi
+uvicorn
+duckduckgo-search
+python-multipart
+langchain-cli
